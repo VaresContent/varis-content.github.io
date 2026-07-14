@@ -1,2 +1,2 @@
-# varis-content.github.io
+# vares-content.github.io
 وبسایت تولید محتوا وارث
